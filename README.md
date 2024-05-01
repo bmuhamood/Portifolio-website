@@ -1,6 +1,8 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
+Made some changes to pull the request
+
 <a href="https://Bbosasable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 
